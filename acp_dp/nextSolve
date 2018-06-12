@@ -1,0 +1,10 @@
+SRM395-2-3
+SRM240-1-3(MailArchiving) -- nested ranges style
+TC(CuttingBitString, Stamp, SentenceDecomposition, MessageMess) -- consecutive ranges style
+UVA(11404), TC(PalindromizationDiv1) -- general ranges style
+SPOJ(Alphacode), TC(BadSubstring, FIELDDiagrams, ForbiddenStrings, Lottery, AdjacentSwaps, HillHike, Flags) -- counting
+UVa(11404, 607, 11753, 662, 757) -- build output
+Live Archive (3276, 2784), SRM386-1-2(PolygonCover), SRM397-2-3(CollectingMarbles), SPOJ(PERMUT1) -- masks 1
+Live Archive(4073) -- masks 2 (sub-masks)
+CodeForces(167B, 107B, 50C), UVA(542), SRM408-2-3(MarblesInABag), SRM339-1-2(TestBettingStrategy), SRM513-1-2(PerfectMemory) probability
+SRM423-1-2(TheEasyChase), SRM 603-2-3, SRM 607-2-3 cyclic recurrence 1
